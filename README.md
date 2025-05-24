@@ -17,7 +17,10 @@ Berikut adalah langkah-langkah menampilkan web project yang diunduh dari GitHub 
 
 ## 3.Akses di browser 
 8. Akses Project di Browser - Ketik atau salin alamat berikut di address bar:
-   project 1: http://localhost/PerancanganWeb-DesainGrafis-BisDig/PromoCard/
-   project 2: http://localhost/PerancanganWeb-DesainGrafis-BisDig/SilentCommentar/
-   project 3:http://localhost/PerancanganWeb-DesainGrafis-BisDig/GalleryDigitalProductResponsive/
+   project 1 : http://localhost/PerancanganWeb-DesainGrafis-BisDig/PromoCard/
+   project 2 : http://localhost/PerancanganWeb-DesainGrafis-BisDig/SilentCommentar/
+   project 3 : http://localhost/PerancanganWeb-DesainGrafis-BisDig/GalleryDigitalProductResponsive/
+   project 4 : http://localhost/PerancanganWeb-DesainGrafis-BisDig/SilentCommentar/
 9. Halaman project akan tampil di layar anda
+
+## Catatan : dilarang menyebearluaskan dan mengcopy foto pribadi di dalam assets projek ini
