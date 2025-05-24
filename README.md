@@ -16,7 +16,7 @@ Berikut adalah langkah-langkah menampilkan web project yang diunduh dari GitHub 
 7. Tempatkan folder project ke dalam: C:\xampp\htdocs\perancangan_web
 
 ## 3.Akses di browser 
-8. Akses Project di Browser - Ketik di address bar:
+8. Akses Project di Browser - Ketik atau salin alamat berikut di address bar:
    project 1: http://localhost/PerancanganWeb-DesainGrafis-BisDig/PromoCard/
    project 2: http://localhost/PerancanganWeb-DesainGrafis-BisDig/SilentCommentar/
    project 3:http://localhost/PerancanganWeb-DesainGrafis-BisDig/GalleryDigitalProductResponsive/
